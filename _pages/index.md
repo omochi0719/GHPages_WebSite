@@ -16,7 +16,7 @@ permalink: /
 
 # 最近ハマっている漫画紹介✨
 ## マチネとソワレ
-![image](/GHPages_WebSite/assets/images/logo-150.png)
+![image](/GHPages_WebSite/assets/images/matinetosoware1.jpg)
 
 ###　　
 ##### 見出し5
